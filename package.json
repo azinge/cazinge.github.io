@@ -1,16 +1,16 @@
 {
-  "name": "spa-github-pages",
-  "version": "3.0.0",
-  "description": "Single Page Apps for GitHub Pages",
+  "name": "cazinge.github.io",
+  "version": "0.0.0",
+  "description": "Eddie Azinge's Website",
   "scripts": {
     "start": "webpack-dev-server -d --inline --host 0.0.0.0 --history-api-fallback --progress",
     "publish": "webpack -p"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafrex/spa-github-pages.git"
+    "url": "git+https://github.com/cazinge/cazinge.github.io"
   },
-  "author": "Rafael Pedicini <code@rafrex.com>",
+  "author": "Eddie Azinge",
   "license": "MIT",
   "dependencies": {
     "react": "^15.4.1",
