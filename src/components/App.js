@@ -10,7 +10,7 @@ function App({ children }) {
       <nav className="light-blue lighten-1" role="navigation">
         <div className="nav-wrapper container"><a id="logo-container" href="#logo" className="brand-logo">Eddie Azinge</a>
           <ul className="right hide-on-med-and-down">
-            <li><a href="#github">Github</a></li>
+            <li><a href="https://github.com/cazinge">Github</a></li>
           </ul>
         </div>
       </nav>
